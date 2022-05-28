@@ -9,7 +9,6 @@ const restartBtn = document.querySelector('.restart');
 const optionDisplay = document.querySelector('.option-container');
 
 
-
 let playerScore = 0;
 let computerScore = 0;
 let playerPlay;
