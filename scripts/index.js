@@ -31,6 +31,7 @@ option.addEventListener('click', () => {
 
 
 
+
 function computerPlay() {
     let randomDecision;
     let options = ["scissors","paper","rock"]; 
