@@ -4,7 +4,7 @@
 # **Rock Paper Scissors game**
 An update to the console game. 
 
-##### **What i learnt** 
+### **What i learnt** 
 - More understanding of ```DOM manipulation``` and ```methods``` .
 - A bit more about using, adding and removing ```EventListeners```.
 - Code refactoring.
