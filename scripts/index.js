@@ -39,6 +39,7 @@ function computerPlay() {
 }
 
 
+
 function playRound(playerSelection, computerSelection) {
     playerSelection = playerSelection.toLowerCase();
 if ( (playerSelection ==="rock" && computerSelection ==="scissors") ||
@@ -62,6 +63,7 @@ else {
     winner.textContent = "It's a tie!";
     }
 }  
+
 
 
 function reportWinner() {

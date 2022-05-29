@@ -4,7 +4,6 @@ body{
     text-align: center;
     font-size: x-large;
     user-select: none;
-
 }
 
 h2{
@@ -50,8 +49,6 @@ li:hover  {
     margin: 0 auto;
     padding-top: 3.1em;
 }
-
-
 
 
 .scores-container {
